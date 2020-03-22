@@ -1,6 +1,6 @@
 # Face-Recognition-with-Keras
 
-A folder of Python Programms to create and train a face recognition model
+A Repository of Python Programms to create and train a face recognition model
 
 
 Includes:
